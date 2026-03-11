@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Mohamed Shiyam 👋
 
-<!--
-**Shiyam25/Shiyam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Enthusiast focused on Machine Learning, Deep Learning, and NLP.
 
-Here are some ideas to get you started:
+I build end-to-end machine learning projects using Python and explore real-world AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+Python
+Machine Learning
+Deep Learning
+Natural Language Processing (NLP)
+SQL
+Data Analysis
+
+Libraries and Tools
+
+NumPy
+Pandas
+Scikit-learn
+TensorFlow / Keras
+Matplotlib
+Seaborn
+Power BI
+Git & GitHub
+
+---
+
+## Featured Projects
+
+Spam Mail Detection
+Machine learning model to classify SMS messages as spam or ham using NLP techniques.
+
+Loan Approval Prediction
+Classification project predicting loan approval using Logistic Regression, KNN, SVM, and Random Forest.
+
+Car Price Prediction
+Regression model to estimate car prices using vehicle features.
+
+Cat vs Dog Image Classification
+Deep learning CNN model for image classification.
+
+RAG Document Question Answering
+Retrieval Augmented Generation system using FAISS and HuggingFace.
+
+Spam Email Classification using RNN
+Deep learning project using Embedding and LSTM layers for spam email detection.
+
+---
+
+## Currently Learning
+
+Advanced Machine Learning
+Deep Learning Architectures
+Generative AI and LLM Applications
+
+---
+
+## Location
+
+India
+
