@@ -1,88 +1,79 @@
 # Hi, I'm Mohamed Shiyam 👋
 
-Data Science Enthusiast focused on Machine Learning, Deep Learning, and Natural Language Processing.
+Aspiring Data Analyst & Data Scientist with a strong focus on data analysis, visualization, and machine learning.
 
-I build end-to-end machine learning projects using Python and explore real-world AI applications.
-
----
-
-## Skills
-
-### Programming
-
-* Python
-* SQL
-
-### Machine Learning
-
-* Supervised Learning
-* Classification
-* Regression
-* Model Evaluation
-* Hyperparameter Tuning
-
-### Deep Learning
-
-* Artificial Neural Networks (ANN)
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
-* Long Short Term Memory (LSTM)
-
-### Natural Language Processing
-
-* Text Preprocessing
-* Tokenization
-* TF-IDF
-* Text Classification
-* Retrieval Augmented Generation (RAG)
-
-### Libraries and Tools
-
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow / Keras
-* Matplotlib
-* Seaborn
-* Power BI
-* Git
-* GitHub
-
+I work on data analysis, dashboard development, and machine learning projects to extract insights and support data-driven decision making.
 
 ---
 
-## Featured Projects
+## 🔧 Skills
 
-* Spam Mail Detection
-  Machine learning model to classify SMS messages as spam or ham using NLP techniques.
+### 📊 Data Analysis
+- SQL
+- Excel
+- Power BI
+- Data Cleaning & Transformation
 
-* Loan Approval Prediction
-  Classification model that predicts whether a loan application will be approved based on applicant details.
+### 💻 Programming
+- Python (Pandas, NumPy)
 
-* Car Price Prediction
-  Regression model that predicts the price of used cars using multiple machine learning algorithms.
+### 📈 Data Visualization
+- Power BI Dashboards
+- Matplotlib
+- Seaborn
 
-* RAG Document Question Answering
-  End-to-end Retrieval Augmented Generation pipeline that answers questions from a PDF document using embeddings, FAISS vector search, and a HuggingFace QA model.
+### 🤖 Machine Learning & Deep Learning
+- Supervised Learning (Classification, Regression)
+- Model Evaluation & Hyperparameter Tuning
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN, LSTM)
 
-* Cat vs Dog Image Classification
-  Deep learning project using CNN and transfer learning with MobileNetV2 to classify cat and dog images.
-
-* Spam Email Classification using RNN
-  Deep learning model using RNN-LSTM architecture to classify emails as spam or not spam.
+### 🧠 Natural Language Processing
+- Text Preprocessing
+- Tokenization
+- TF-IDF
+- Text Classification
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-## Currently Learning
+## 🚀 Featured Projects
 
-Deep Learning Architectures
-Advanced Natural Language Processing
-Large Language Models and RAG Systems
+### 📊 Sales Analysis Dashboard (Power BI)
+Developed an interactive dashboard to analyze sales performance, revenue trends, and customer behavior.  
+Identified key insights such as top-performing products and regional sales patterns to support business decisions.
 
 ---
 
-## Location
+### 📄 RAG Document Question Answering System
+Built an end-to-end Retrieval-Augmented Generation system using FAISS and HuggingFace to answer questions from documents.
 
+---
+
+### 🏦 Loan Approval Prediction
+Developed a machine learning model to predict loan approval based on applicant data using classification techniques.
+
+---
+
+### 🐱🐶 Cat vs Dog Image Classification
+Built a deep learning model using CNN and transfer learning (MobileNetV2) to classify images.
+
+---
+
+### 📩 Spam Email Detection (RNN-LSTM)
+Developed a deep learning model using RNN-LSTM architecture to classify emails as spam or not.
+
+---
+
+## 📚 Currently Learning
+- Advanced Deep Learning Architectures  
+- NLP & Large Language Models  
+- End-to-End ML Deployment  
+
+---
+
+## 🌍 Location
 India
 
+---
 
